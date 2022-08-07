@@ -39,3 +39,7 @@ Overview of the database and application is inside the diagram files.
 [AWS](https://aws.amazon.com/) & [NGINIX](https://www.nginx.com/) 
 
 [MySQL Database](https://www.mysql.com/)
+
+[Maven](https://maven.apache.org/)
+
+[Postman](https://www.postman.com/)
